@@ -9,7 +9,7 @@
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Samuel+D.+Reyes!;+I'm+Gonna+Be+King+Of+The+Software+Engineers!!!👒;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Samuel+Bauta!;+I'm+Gonna+Be+King+Of+The+Software+Engineers!!!👒;" />
 </h1>
 
 <!--+My+Name+Is+Samuel+D.+Reyes!;+I'm+Gonna+Be King+Of+The+Developers👒
@@ -18,13 +18,13 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! I'm An International Student From Honduras</h3>
+<h3 align="center">Hello There 👋! I'm Software Engineer from Orlando, FL</h3>
 
 <div align="center">
 
 </br>
 
-I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Cloud Computing & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
 
 </br>
     
@@ -49,13 +49,13 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 <!-- Statistics Container --> 
 <div align="center">
 <!-- GitHub Graph --> 
-<img src="https://github-readme-stats.vercel.app/api?username=Samueldreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelbauta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
 
 <!-- Coding Languages Graph --> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samueldreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelbauta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
 
 <!-- Streak Graph --> 
-<img src="https://streak-stats.demolab.com?user=Samueldreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=samuelbauta&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <!-- Makaing Space With Break Lines --> 
@@ -105,37 +105,19 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 <!-- Social Media Container --> 
 <div align="left">
   <!-- Linkedin Logo --> 
-  <a href="www.linkedin.com/in/Samueldreyesz" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="www.linkedin.com/in/samuelbauta" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
   </a>
 <img width="12" />
 
   <!-- Discord Logo --> 
-  <a href="https://discordapp.com/users/Samueldreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://discordapp.com/users/cryingrobot/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="45" alt="discord logo"  />
   </a>
 <img width="12" />
 
-  <!-- instagram Logo --> 
-  <a href="https://www.instagram.com/Samueldreyesz" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  height="45" alt="instagram logo"  />
-  </a>
-<img width="12" />
-
-  <!-- Twitter Logo -->
-  <a href="https://www.twitter.com/Samueldreyesz" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="45" alt="twitter logo"  />
-  </a>
-<img width="12" />
-
-  <!-- WhatsApp Logo -->
-  <a href="(813) 510-0496" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
-  </a>
-<img width="12" />
-
   <!-- Gmail Logo -->
-  <a href="Samueldreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="samjbauta@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
   </a>
 <img width="12" />
@@ -150,10 +132,10 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
 <!-- Snake Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samueldreyesz/Samueldreyesz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/samuelbauta/samuelbauta/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Graph Chart --> 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samueldreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelbauta&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
