@@ -24,7 +24,7 @@
 
 </br>
 
-I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Cloud Computing & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently learning Cloud Computing & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
 
 </br>
     
