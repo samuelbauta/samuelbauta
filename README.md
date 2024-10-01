@@ -28,9 +28,9 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
 </br>
     
- I’m currently working on **A Anime Gallery and Blog Post**
+ I’m currently working on **Shinshiten - Anime Art Gallery and Blog Post Platform**
  
- I’m currently learning **Next.js, AWS, Cloud Dev, and improving my UI/UX skills**
+ I’m currently learning **Next.js, AWS, and improving my UI/UX skills**
 
 Ask me about **My Passion For Innovation And My Future Plans**
 
