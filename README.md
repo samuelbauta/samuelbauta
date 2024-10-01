@@ -66,7 +66,7 @@ Fun fact **90% of the world's data was created in the last two years.**
 <h2 align="center">Skills & Contact</h2>
 
 <!-- GIF --> 
-<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
+<img align="right" height="150" src="https://tenor.com/bAMPZ.gif"  />
 <!-- <img align="right" height="150" src="https://tenor.com/bAMPZ.gif"  /> -->
 
 <!-- Coding Languages Container --> 
