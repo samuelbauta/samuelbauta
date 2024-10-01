@@ -18,7 +18,7 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">About Me</h2>
-<h3 align="center">Hello There 👋! I'm Software Engineer from Orlando, FL</h3>
+<h3 align="center">Hey There! I'm a new grad Software Engineer from Orlando, FL</h3>
 
 <div align="center">
 
@@ -28,13 +28,13 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
 </br>
     
- 🔭 I’m currently working on **A Connect 4 App**
+ I’m currently working on **A Anime Gallery and Blog Post**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
+ I’m currently learning **Next.js, AWS, Cloud Dev, and improving my UI/UX skills**
 
-💬 Ask me about **My Passion For Innovation And My Future Plans**
+Ask me about **My Passion For Innovation And My Future Plans**
 
-⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
+⚡ Fun fact **90% of the world's data was created in the last two years.**
 
  </div>
 
