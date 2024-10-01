@@ -41,7 +41,7 @@ Ask me about **My Passion For Innovation And My Future Plans**
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
-<h2 align="center">⭐Statistics⭐</h2>
+<h2 align="center">Statistics</h2>
 
  <!-- Makaing Space With Break Lines --> 
 </br>
@@ -63,11 +63,11 @@ Ask me about **My Passion For Innovation And My Future Plans**
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
-<h2 align="center">🖥️Skills & Contact🖥️</h2>
+<h2 align="center">Skills & Contact</h2>
 
 <!-- GIF --> 
 <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
-<!-- <img align="right" height="150" src="https://i.imgflip.com/92ctea.gif"  /> -->
+<!-- <img align="right" height="150" src="[https://i.imgflip.com/92ctea.gif](https://tenor.com/bAMPZ.gif)"  /> -->
 
 <!-- Coding Languages Container --> 
 <div align="left">
