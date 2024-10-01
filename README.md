@@ -34,7 +34,7 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
 Ask me about **My Passion For Innovation And My Future Plans**
 
-⚡ Fun fact **90% of the world's data was created in the last two years.**
+Fun fact **90% of the world's data was created in the last two years.**
 
  </div>
 
@@ -67,7 +67,7 @@ Ask me about **My Passion For Innovation And My Future Plans**
 
 <!-- GIF --> 
 <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
-<!-- <img align="right" height="150" src="[https://i.imgflip.com/92ctea.gif](https://tenor.com/bAMPZ.gif)"  /> -->
+<!-- <img align="right" height="150" src="https://tenor.com/bAMPZ.gif"  /> -->
 
 <!-- Coding Languages Container --> 
 <div align="left">
@@ -128,7 +128,7 @@ Ask me about **My Passion For Innovation And My Future Plans**
 
 <!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
 <!-- Contributions Title --> 
-<h2 align="center">⚡Contributions⚡</h2>
+<h2 align="center">Contributions</h2>
 
 <!-- Snake Graph -->
 <div align="center">
