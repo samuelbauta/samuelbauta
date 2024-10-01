@@ -66,7 +66,7 @@ Fun fact **90% of the world's data was created in the last two years.**
 <h2 align="center">Skills & Contact</h2>
 
 <!-- GIF --> 
-<img align="right" height="150" src="[https://tenor.com/bAMPZ.gif](https://hype.my/wp-content/uploads/2021/04/The-Way-of-the-Househusband-5.gif)"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/xkGXaFWW7vYAAAAC/gokushufudou.gif"  />
 <!-- <img align="right" height="150" src="https://tenor.com/bAMPZ.gif"  /> -->
 
 <!-- Coding Languages Container --> 
