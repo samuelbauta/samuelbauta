@@ -9,7 +9,7 @@
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Samuel+Bauta!;+I'm+Gonna+Be+King+Of+The+Software+Engineers!!!👒;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Samuel+Bauta!;+Check+out+my+work;" />
 </h1>
 
 <!--+My+Name+Is+Samuel+D.+Reyes!;+I'm+Gonna+Be King+Of+The+Developers👒
@@ -17,7 +17,7 @@
 
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
-<h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
+<h2 align="center">About Me</h2>
 <h3 align="center">Hello There 👋! I'm Software Engineer from Orlando, FL</h3>
 
 <div align="center">
