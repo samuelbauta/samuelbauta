@@ -30,13 +30,6 @@ Explore some of my work:
 
 ---
 
-## Connect
-
-- Discord: 
-- Website / Portfolio:
-
----
-
 ## GitHub Contributions
 ![GitHub Contributions](https://ghchart.rshah.org/samuelbauta)
 ---
