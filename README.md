@@ -18,7 +18,7 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">About Me</h2>
-<h3 align="center">Hey There! I'm a new grad Software Engineer from Orlando, FL</h3>
+<h3 align="center">Hey There! Thanks for stopping by</h3>
 
 <div align="center">
 </br>
