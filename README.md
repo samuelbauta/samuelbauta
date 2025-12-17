@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Your Name
+# Samuel Bauta
 
-<sub>📍 Your Location · 💼 Your Career Title</sub>
+<sub>Florida, Software Engineer</sub>
 
 </div>
 
@@ -32,14 +32,12 @@ Explore some of my work:
 
 ## Connect
 
-- Discord: [yourusername](https://discord.com/users/YOUR_ID)  
-- Website / Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- Discord: 
+- Website / Portfolio:
 
 ---
 
 ## GitHub Contributions
-
-![GitHub Contributions](https://ghchart.rshah.org/YOUR_GITHUB_USERNAME)
 
 ---
 
