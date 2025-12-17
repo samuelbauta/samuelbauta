@@ -26,7 +26,7 @@ Currently exploring:
 
 Explore some of my work:
 
-[![Portfolio Preview](https://via.placeholder.com/600x200?text=Click+to+Explore)](https://yourportfolio.com)
+TBA
 
 ---
 
