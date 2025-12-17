@@ -94,10 +94,7 @@ Endlessly learning.
 
 <!-- Social Media Container --> 
 <div align="left">
-  <!-- Linkedin Logo --> 
-  <a href="www.linkedin.com/in/samuelbauta" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
-  </a>
+
 <img width="12" />
 
   <!-- Discord Logo --> 
@@ -106,11 +103,7 @@ Endlessly learning.
   </a>
 <img width="12" />
 
-  <!-- Gmail Logo -->
-  <a href="samjbauta@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
-  </a>
-<img width="12" />
+
 </div>
 
 <!-- Makaing Space With Break Lines --> 
