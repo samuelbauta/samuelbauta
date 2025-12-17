@@ -21,21 +21,11 @@
 <h3 align="center">Hey There! I'm a new grad Software Engineer from Orlando, FL</h3>
 
 <div align="center">
-
 </br>
 
-I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently learning Cloud Computing & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+Endlessly learning.
 
 </br>
-    
- I’m currently working on **Shinshiten - Anime Art Gallery and Blog Post Platform**
- 
- I’m currently learning **Next.js, AWS, and improving my UI/UX skills**
-
-Ask me about **My Passion For Innovation And My Future Plans**
-
-Fun fact **90% of the world's data was created in the last two years.**
-
  </div>
 
 
