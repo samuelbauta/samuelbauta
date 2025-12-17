@@ -38,7 +38,7 @@ Explore some of my work:
 ---
 
 ## GitHub Contributions
-
+![GitHub Contributions](https://ghchart.rshah.org/samuelbauta)
 ---
 
 <div align="center">
